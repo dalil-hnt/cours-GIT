@@ -1,0 +1,4 @@
+*.temp
+password.txt
+.idea/*
+.env
